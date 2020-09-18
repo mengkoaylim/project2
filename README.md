@@ -61,7 +61,7 @@
         </div>
          <p>
           <i class="fas fa-basketball-ball fa-4x"></i> 
-          <i class="fas fa-food fa-4x"></i>
+          <i class="fas fa-lego fa-4x"></i>
           <i class="fas fa-futbol fa-4x"></i>
         </p> 
       </div>
