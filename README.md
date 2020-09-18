@@ -31,8 +31,7 @@
              
           </p>
        </div>
-       
-       <div class="resume_item skills">
+      <div class="resume_item skills">
     <div class="title">
       <p class="bold">SKILLS</p>
         </div>
@@ -136,7 +135,6 @@
       <p>Pricing Analyst</p>
     </div>
   </div>
-  
   <div class="references">
   <p class="teacher"><i class="fas fa-pencil-alt fa-2x"></i><b> REFERENCES </b></p></div>
     <br>
