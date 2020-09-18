@@ -141,7 +141,7 @@
   <p class="teacher"><i class="fas fa-pencil-alt fa-2x"></i><b> REFERENCES </b></p></div>
     <br>
       <div class="gridreferences">
-    <div><h3>jon Root</h3>
+    <div><h3>Jon Root</h3>
       <p>OPENCLASSROOM</p>
       Phone:
       <br>
